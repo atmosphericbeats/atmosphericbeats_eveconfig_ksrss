@@ -1,24 +1,41 @@
 # AtmosphericBeats config for EVE Volumetrics, developed for KSRSS
 An EVE Volumetrics config for KSRSS Reborn. Now you can enjoy volumetrics clouds on Earth, Mars, Venus and Titan!
 
+**2023/06/29 - Now updated for EVE Volumetrics version 2, with rain/snow/dust particles, thunders and sound effects**
+
 
 ## Earth
 
-https://user-images.githubusercontent.com/39376083/227610858-27d934d4-2bc4-4233-b002-899e806592cd.mp4
+https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/fc095a6a-2e86-43b0-928b-f8e2a567071a
+
 
 ## Mars
 
-https://user-images.githubusercontent.com/39376083/227608415-efcadf24-e277-46cc-b41a-363fa98b476d.mp4
+https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/111c725d-cea3-493f-abcd-53c6ca461718
+
 
 ## Venus
 
-https://user-images.githubusercontent.com/39376083/227583121-723ddc9d-e9b8-495c-b571-3434fca78df0.mp4
+https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/f15604dd-65a4-4018-babc-186175cd97cf
+
 
 ## Titan
 
-https://user-images.githubusercontent.com/39376083/227625412-cb5fe6ca-da8f-4c2e-ba65-716a2b2e1ad4.mp4
+https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/2f326732-725e-4de3-86e4-f52ac820558f
 
 
+
+## Dependencies 
+- EVE Volumetrics Version 2 by blackrack + its dependencies (https://www.patreon.com/blackrack)
+- KSRSS Reborn by ballisticfox + its dependencies (https://gitlab.com/ksrss/KSRSS/-/tree/reborn)
+
+
+
+## How to Install
+- Install KSRSS Reborn and EVE Volumetrics version 2
+- Download AtmosphericBeats Configs and paste all folders inside GameData. Overwrite all files when asked.
+- Enjoy!
+  
 ------
 
 ## What does it do?
@@ -26,12 +43,14 @@ https://user-images.githubusercontent.com/39376083/227625412-cb5fe6ca-da8f-4c2e-
 ### Earth
 - Adapted from Kerbin stock config
 - More realistic cloud thickness and altitude on Earth, compared to thin cloud layers on stock eve configs
+- Rain particles and thunders
 - Smoother fade to ScaledSpace to avoid flat carpet of clouds when watching from high altitudes/orbit
 - Reduced NoiseAnimation to avoid unrealistic clouds movements when timewarping from high altitudes/orbit
 
 ### Mars
 - Adapted from Duna stock config
 - Adjusted dust storms thickness and altitude
+- Dust particles (Eve version 2)
 - Adjusted cirrus-like clouds thickness
 - Smoother fade to ScaledSpace to avoid unrealistic dust storms pattern from orbit
 
@@ -41,20 +60,5 @@ https://user-images.githubusercontent.com/39376083/227625412-cb5fe6ca-da8f-4c2e-
 
 ### Titan (Experimental)
 - Uniform fog layer that can be seen from orbit
-- Methane clouds and rain
-- Some glitch are possible, as it is difficult to keep a good interaction between the fog layer and the CH4 cloud layer. Please consider it as unfinished
-
-------
-
-
-## Dependencies 
-- EVE Volumetrics by blackrack + its dependencies (https://www.patreon.com/blackrack)
-- KSRSS Reborn by ballisticfox + its dependencies (https://gitlab.com/ksrss/KSRSS/-/tree/reborn)
-
-
-
-## How to Install
-- Install KSRSS Reborn and EVE Volumetrics
-- Remove stock EVE volumetrics config to avoid conflicts on Kerbin/Earth (GameData/StockVolumetricClouds/Clouds/clouds.cfg)
-- Download AtmosphericBeats Configs and paste "KSRSS" folder inside GameData. Overwrite all files when asked.
-- Enjoy!
+- Methane clouds
+- Methane rain with particles (Eve version 2)
