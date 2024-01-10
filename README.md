@@ -1,39 +1,46 @@
 # AtmosphericBeats config for EVE Volumetrics, developed for KSRSS
 An EVE Volumetrics config for KSRSS Reborn. Now you can enjoy volumetrics clouds on Earth, Mars, Venus and Titan!
 
-**2023/06/29 - Now updated for EVE Volumetrics version 2, with rain/snow/dust particles, thunders and sound effects**
+**2024/01/10 - NOW UPDATED FOR EVE VOLUMETRICS VERSION 4**
 
+**- Review config to take advantage of the new lighting model for all bodies** 
+
+**- Totally new config for Titan and Venus**
+
+**- Scatterer configs to better combine new lights with atmospheres**
 
 ## Earth
+![screenshot363](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/bc46bcfb-d1bd-4b23-a5d6-8636f30c1cad)
+![screenshot361](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/d879cfb8-19c9-497e-8a12-d68468ad027b)
+![screenshot362](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/ef2b65dd-73b2-4a5c-b74c-2a6c6598b132)
 
-https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/fc095a6a-2e86-43b0-928b-f8e2a567071a
-
-
-## Mars
-
-https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/111c725d-cea3-493f-abcd-53c6ca461718
-
+## Titan
+![screenshot368](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/881df62f-5a36-4873-a8a0-ccdcad68d24d)
+![screenshot366](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/7056ea55-155c-4271-bc01-639c942927e3)
+![screenshot367](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/89031c90-0e28-4f15-9780-22d9a7519b8f)
 
 ## Venus
 
-https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/f15604dd-65a4-4018-babc-186175cd97cf
+![screenshot373](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/2b0863dc-275c-4152-a7f6-c12f0a6612d1)
+![screenshot374](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/4e516cab-559b-4bd3-ba6b-395f285240c1)
+![screenshot372](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/72dbe9e8-1c0f-48e7-8ea4-8883510d7e09)
 
-
-## Titan
-
-https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/2f326732-725e-4de3-86e4-f52ac820558f
+## Mars
+![screenshot382](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/e948113d-537b-4b46-948a-83d46adfe08a)
+![screenshot378](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/258e01a2-447c-472c-86b0-2630656bceb6)
 
 
 
 ## Dependencies 
-- EVE Volumetrics Version 2 by blackrack + its dependencies (https://www.patreon.com/blackrack)
+- EVE Volumetrics Version 4 by blackrack + its dependencies (https://www.patreon.com/blackrack)
 - KSRSS Reborn by ballisticfox + its dependencies (https://gitlab.com/ksrss/KSRSS/-/tree/reborn)
 
 
 
 ## How to Install
-- Install KSRSS Reborn and EVE Volumetrics version 2
-- Download AtmosphericBeats Configs and paste all folders inside GameData. Overwrite all files when asked.
+- Install KSRSS Reborn and EVE Volumetrics version 4
+- Remove AtmosphericBeats folder from your GameData folder if exists
+- Download AtmosphericBeats Configs and paste AtmosphericBeats folder inside your GameData folder
 - Enjoy!
   
 ------
@@ -44,21 +51,26 @@ https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/3937
 - Adapted from Kerbin stock config
 - More realistic cloud thickness and altitude on Earth, compared to thin cloud layers on stock eve configs
 - Rain particles and thunders
-- Smoother fade to ScaledSpace to avoid flat carpet of clouds when watching from high altitudes/orbit
+- Smoother fade to ScaledSpace to avoid noisy flat carpet of clouds when watching from high altitudes/orbit
 - Reduced NoiseAnimation to avoid unrealistic clouds movements when timewarping from high altitudes/orbit
 
 ### Mars
 - Adapted from Duna stock config
+- Adjusted scatterer config to better mix with new lighting model
 - Adjusted dust storms thickness and altitude
 - Dust particles (Eve version 2)
 - Adjusted cirrus-like clouds thickness
 - Smoother fade to ScaledSpace to avoid unrealistic dust storms pattern from orbit
 
 ### Venus
+- Totally reviewed cloud layers from v2.0
+- Adjusted scatterer config to better mix with new lighting model
 - Adapted from Eve stock config
 - Adjusted clouds and fog thickness and altitude
 
-### Titan (Experimental)
+### Titan
+- Totally reviewed cloud and fog layers from v2.0
+- Adjusted scatterer config to better mix with new lighting model
 - Uniform fog layer that can be seen from orbit
 - Methane clouds
-- Methane rain with particles (Eve version 2)
+- Methane rain with particles (Experimental)
