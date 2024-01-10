@@ -1,6 +1,8 @@
 # AtmosphericBeats config for EVE Volumetrics, developed for KSRSS
 An EVE Volumetrics config for KSRSS Reborn. Now you can enjoy volumetrics clouds on Earth, Mars, Venus and Titan!
 
+Also available on CKAN and SpaceDock (https://spacedock.info/mod/3343/AtmosphericBeats%20KSRSS%20config%20for%20EVE%20Volumetrics)
+
 **2024/01/10 - NOW UPDATED FOR EVE VOLUMETRICS VERSION 4**
 
 **- Reviewed configs to take advantage of the new lighting model for all bodies** 
