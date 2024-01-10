@@ -18,6 +18,8 @@ An EVE Volumetrics config for KSRSS Reborn. Now you can enjoy volumetrics clouds
 ![screenshot368](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/881df62f-5a36-4873-a8a0-ccdcad68d24d)
 ![screenshot366](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/7056ea55-155c-4271-bc01-639c942927e3)
 ![screenshot367](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/89031c90-0e28-4f15-9780-22d9a7519b8f)
+![screenshot351](https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/assets/39376083/7b3ef309-13e9-4e4d-aaf5-ff07a3976f42)
+
 
 ## Venus
 
