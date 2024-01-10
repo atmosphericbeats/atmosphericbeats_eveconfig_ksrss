@@ -61,7 +61,7 @@ An EVE Volumetrics config for KSRSS Reborn. Now you can enjoy volumetrics clouds
 - Adapted from Duna stock config
 - Adjusted scatterer config to better mix with new lighting model
 - Adjusted dust storms thickness and altitude
-- Dust particles (Eve version 2)
+- Dust particles
 - Adjusted cirrus-like clouds thickness
 - Smoother fade to ScaledSpace to avoid unrealistic dust storms pattern from orbit
 
