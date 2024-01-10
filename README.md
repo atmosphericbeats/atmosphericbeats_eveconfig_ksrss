@@ -3,7 +3,7 @@ An EVE Volumetrics config for KSRSS Reborn. Now you can enjoy volumetrics clouds
 
 **2024/01/10 - NOW UPDATED FOR EVE VOLUMETRICS VERSION 4**
 
-**- Review configs to take advantage of the new lighting model for all bodies** 
+**- Reviewed configs to take advantage of the new lighting model for all bodies** 
 
 **- Totally new configs for Titan and Venus**
 
